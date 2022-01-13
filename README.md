@@ -1,98 +1,25 @@
-# -ADXXXXX-Template
+# ADIRRVMD USB赤外線リモコン受光アダプタ
 
 ## ここに見出し
 
-![タイトル画像のURLを右のカッコに]()
+![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/11/P1450747.jpg)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+赤外線信号を使って、PCに任意のキーボード入力が可能なデバイス。  
+コンパクトな設計とゆとりをもったケーブル長で設置場所を選びません。  
+汎用的な赤外線リモコン信号に対応し、最大20パターンの信号にそれぞれキーコードを割り当てることが可能。  
+本体に保存した設定はメモリに保存され、ソフトウェアやドライバ無しに他のPCでも動作します。   
 
-<!--
-改行する場合、文末に半角スペース2個を置く
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/adirrvmd/) 
 
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
+## [アプリケーションソフト](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/)  
 
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
-
-
-見出しの付け方
-
-# 見出し1
-
-## 見出し1-1
-
-###　見出し1-2
-
-# 見出し2
-
-"#"を増やすと下位の見出しになる
-
-
--->
-
-
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
-
-
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
+## [Q&A](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/blob/master/FAQ.md)
 
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
+    【対応OS】Windows 10/8/7/Vista/XP
+    【サイズ】W35×D50×H20mm（受光部除く）
+    【受光部ケーブル長】約3m
+    【重量】約60g
+    【コネクタ】USB miniB
+    【電源】5V (USB miniB)
+    【付属品】USB A-miniBケーブル
