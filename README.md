@@ -1,6 +1,6 @@
 # ADIRRVMD USB赤外線リモコン受光アダプタ
 
-## ここに見出し
+
 
 ![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/11/P1450747.jpg)
 
