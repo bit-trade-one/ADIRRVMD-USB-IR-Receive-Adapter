@@ -12,7 +12,7 @@
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/adirrvmd/) 
 
 ## [設定ソフト一覧](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/)  
-## [最新設定ソフトダウンロード直リンク](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/ADIRRVMD_IR_REMOCON_CT_v110.zip)  
+### [最新設定ソフトダウンロード直リンク](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/ADIRRVMD_IR_REMOCON_CT_v110.zip)  
 
 ## [Q&A](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/blob/master/FAQ.md)
 
