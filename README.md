@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # ADIRRVMD USB赤外線リモコン受光アダプタ
 
 
@@ -12,7 +13,7 @@
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/adirrvmd/) 
 
 ## [設定ソフト一覧](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/)  
-### [最新設定ソフトダウンロード直リンク](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/raw/master/App/ADIRRVMD_IR_REMOCON_CT_v120.zip)  
+
 
 ## [Q&A](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter/blob/master/FAQ.md)
 
